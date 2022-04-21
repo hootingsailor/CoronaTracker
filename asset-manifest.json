@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoronaTracker/static/css/main.652847c3.css",
+    "main.js": "/CoronaTracker/static/js/main.e020e887.js",
+    "static/js/787.71aab00c.chunk.js": "/CoronaTracker/static/js/787.71aab00c.chunk.js",
+    "index.html": "/CoronaTracker/index.html",
+    "main.652847c3.css.map": "/CoronaTracker/static/css/main.652847c3.css.map",
+    "main.e020e887.js.map": "/CoronaTracker/static/js/main.e020e887.js.map",
+    "787.71aab00c.chunk.js.map": "/CoronaTracker/static/js/787.71aab00c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.652847c3.css",
+    "static/js/main.e020e887.js"
+  ]
+}

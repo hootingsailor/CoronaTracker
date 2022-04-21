@@ -5,21 +5,47 @@
 
 .container{
     background-color: aqua;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
 }
 
 h1{
+    margin-top: 20px;
+    margin-bottom: 50px;
     font-family: "Lucida Handwriting" , "Brush Script MT";
     color: rgb(226, 43, 43);
 }
 
-.input{
-    padding: 50px;
+input[type=text]{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
 }
 
 button{
-    margin: 25px;
+    background-color: #042baa;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.data{
+    font-size: larger;
+    border: 5px solid red;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    width: 50%;
 }
 
 .data  p{
     margin: 10px;
+    word-wrap: break-word;
 }

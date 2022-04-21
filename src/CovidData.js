@@ -54,7 +54,7 @@ function CovidData() {
             <h1>COVID-19 CASES COUNTRY WISE</h1>
             <div className="input">
                 <form onSubmit={handleSubmit}>
-                    <input onChange={handleSearch} placeholder="Enter Country Name" />
+                    <input type="text" onChange={handleSearch} placeholder="Enter Country Name" />
                     <br />
                     <button type="submit">Search</button>
                 </form>
